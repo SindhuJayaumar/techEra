@@ -1,0 +1,26 @@
+.course-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-items {
+  list-style-type: none;
+  width: 250px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+.logo-course-img {
+  width: 30%;
+  margin-left: 20px;
+}
+.content {
+  margin-left: 10px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+}
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}

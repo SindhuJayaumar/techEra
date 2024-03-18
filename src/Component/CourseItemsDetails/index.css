@@ -1,0 +1,30 @@
+.course-details-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.image-side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.courses-image {
+  width: 350px;
+  margin-left: 35px;
+  margin-top: 20px;
+}
+.name {
+  margin-left: 20px;
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #000000;
+  font-weight: bold;
+}
+.contents {
+  margin-left: 10px;
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #000000;
+}
